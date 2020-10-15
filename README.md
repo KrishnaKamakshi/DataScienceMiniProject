@@ -1,6 +1,7 @@
 # DataScienceMiniProject
 
 This Repository consists of: 
+
 A. Assignments on Numpy and Pandas
 
 B. Assignment on Python Programming - Banking Domain
