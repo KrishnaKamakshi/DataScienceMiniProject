@@ -1,4 +1,4 @@
-# DataScienceMiniProject
+# DATA SCIENCE AND MACHINE LEARNING MINI PROJECT
 
 This Repository consists of: 
 
